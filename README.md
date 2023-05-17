@@ -1,7 +1,5 @@
 # api-rest-party-time
 
-Sobre
- API REST para
 Tecnologias:
 * Express
 * Mongoose
